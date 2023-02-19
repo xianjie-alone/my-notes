@@ -126,6 +126,12 @@ Ctrl + 单击 [引用](#一级标题) 将跳转到标题 `一级标题`处。
 
 插入一张图片：![](./images/test1.png)
 
+
+
+再次插入一张图片：
+
+<img src="./images/test2.jpg" alt="test2" style="zoom:33%;" />
+
 **创建一个Typora如何处理图片的[链接](https://support.typora.io//Images/)**
 
 

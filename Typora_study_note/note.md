@@ -124,7 +124,7 @@ Ctrl + 单击 [引用](#一级标题) 将跳转到标题 `一级标题`处。
 图片的格式:
 ![替代文字](/path/to/img.jpg)
 
-插入一张图片：![](./images/test1.png)
+插入一张图片：<img src="./images/test1.png" style="zoom:33%;" />
 
 
 

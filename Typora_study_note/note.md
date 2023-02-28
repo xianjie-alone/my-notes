@@ -169,9 +169,9 @@ Ctrl + 单击 [引用](#一级标题) 将跳转到标题 `一级标题`处。
 
 
 
-您可以使用==HTML==来设置纯 Markdown 不支持的内容，例如， <span style="color:red">this text is red</span> 用于添加红色文本
+您可以使用==HTML==来设置纯 Markdown 不支持的内容，例如， <span style="color:red">this text is red</span> 用于添加红色文
 
-<span style="font-size:2rem; background:yellow;">**Bigger**</span>
+<span style="font-size:1rem; background:pink;">**Bigger**</span>
 
 
 

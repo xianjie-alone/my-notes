@@ -8,20 +8,20 @@ typora-copy-images-to: ./images
 
 - Question styles
   - Agree/disagree 60%
-  - Paired views 20%
-  - 对比一体两面
-  - Multiple choices 20%
+  - Paired views (对比一体两面) 20%
+  -  Multiple choices 20%
+  - Good idea 
 - Topics
   - Education 40%
   - Work/Study 30%
   - Life 30%
 - Grading
-  - Topic 25%
-  - Development  25%
-  - Unity 25%
+  - Topic 切题 25%
+  - Development  内容丰富 25%
+  - Unity 文章结构合理，不同段落有逻辑，段落内部也有逻辑 25%
   - Language 25%
-    - consistent facility
-    - syntactic variety
+    - consistent facility 整篇文章所有段落水平一致
+    - syntactic variety 
     - appropriate word choice
     - idiomaticity
 
@@ -30,7 +30,7 @@ typora-copy-images-to: ./images
 - Changes in 2021
   - longer prompts
   - more specific
-  - Warning message
+  - Warning message: nothing change for this part
 
 ## 2.The Structure
 

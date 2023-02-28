@@ -40,20 +40,28 @@ typora-copy-images-to: ./images
     - Paired 2
     - Multiple choices 2
     - Mixed opinion 1
+  
 - key elements in a 28+ writing
-  - <span style="font-size:1rem; background:skyblue;">Word count 400+</span>
+  - <span style="font-size:1rem; background:skyblue;">Word count 400+，preferably 450+</span>
   - <span style="font-size:1rem; background:skyblue;">Four or five paragraphs</span>
   - <span style="font-size:1rem; background:skyblue;">Formal(academic) style</span>
   - <span style="font-size:1rem; background:skyblue;">natural expression, appropriate vocabulary, and variety in grammar</span>
+  
 - writing structure
   - The beginning
+  
   - point 1 with **reasoning**
+  
   - point2 with **exemplification**
+  
   - point3 with **concession**
     - dis 对手
     - 较难
-  - The end （可以不要）
-  - logic
+    
+  - The end （时间不够，可以不要）
+  
+    **logic**
+  
     - <span style="color:red">Response</span> to the prompts 立场
     - high-level <span style="color:red">points </span> 观点
     - <span style="color:red">Details </span> 细节

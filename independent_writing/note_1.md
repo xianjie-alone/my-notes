@@ -63,22 +63,22 @@ typora-copy-images-to: ./images
 
 - A reservoir of **high-level** points
   - <span style="color:red">macro, expandable, compatible </span>
-  - ==Effectiveness and efficiency==
-  - ==Economy and finance==
+  - <span style="font-size:1rem; background:yellow;">Effectiveness and efficiency</span>
+  - <span style="font-size:1rem; background:yellow;">Economy and finance</span>
     - create jobs
-  - ==Technology and internet==
-  - ==Health and environment==
-  - ==Culture and globalization==
-  - ==Social relationship==
-  - ==Career development==
-  - ==justice and equality==
+  - <span style="font-size:1rem; background:yellow;">Technology and internet</span>
+  - <span style="font-size:1rem; background:yellow;">Health and environment</span>
+  - <span style="font-size:1rem; background:yellow;">Culture and globalization</span>
+  - <span style="font-size:1rem; background:yellow;">Social relationship</span>
+  - <span style="font-size:1rem; background:yellow;">Career development</span>
+  - <span style="font-size:1rem; background:yellow;">justice and equality</span>
   - Example:
     - Pyramid 金字塔论证架构
 
 <img src="./images/essay structure.png" alt="essay structure" style="zoom:33%;" />
 
 - prompt analysis and response
-  - **Argue from ==one side==**
+  - **Argue from <span style="font-size:1rem; background:yellow;">one side</span>**
   - Pick **the side** you have **more to talk about**
   - **Don’t get stuck in details**-clock is ticking as soon as you see the prompt 自圆其说的论证完即可
   - this is not a mathematical proof. **No need to prove from every aspect.**
@@ -189,7 +189,7 @@ typora-copy-images-to: ./images
   - Meanwhile, (**Fact 2**);   <span style="color:blue">Mid</span>
 
     - Meanwhile, in the long term, people will be able to learn more knowledge, enhance their professional skills, and change the world they live in;
-    - 在写对观点的解释是，==问自己解释中的内容 what how where why who ?==
+    - 在写对观点的解释是，<span style="font-size:1rem; background:yellow;">问自己解释中的内容 what how where why who ?</span>
       - 好在接下来有的可写
 
   - Not to mention that (**Fact 3**).  <span style="color:blue">Detail</span>
@@ -233,11 +233,11 @@ typora-copy-images-to: ./images
 - <span style="color:red">Coherent</span>
 
 - Templet
-  - ==Furthermore, the fact that (Point2 mid level) indicates that (Point2 high level).==
+  - <span style="font-size:1rem; background:yellow;">Furthermore, the fact that (Point2 mid level) indicates that (Point2 high level).</span>
     - Furthermore, the fact that <span style="color:blue">education promotes economy</span> indicates that <span style="color:blue">the government should invest in education</span>.
-  - ==Take the case of (character), who/which (process). As a result, (result).==
+  - <span style="font-size:1rem; background:yellow;">Take the case of (character), who/which (process). As a result, (result).</span>
     - Take the case of Union, which invested in education. As a result, educated people built a stronger Union.
-  - ==Had it not been for (process paraphrase), (character) would never (result paraphrase).==
+  - <span style="font-size:1rem; background:yellow;">Had it not been for (process paraphrase), (character) would never (result paraphrase).</span>
     - Had it not been for Union’s focus on education, Union would never become powerful.
     - 虚拟语气
   
@@ -281,9 +281,9 @@ typora-copy-images-to: ./images
   - **Your true opinion**: <span style="color:red">**But**</span>… innocent people can get hurt, and we have police! Let’s keep cats!
   
 - Templet
-  - ==Nevertheless, a voice arises that **(opposite detail in grand opening)**.==
-  - ==Ironically, **(fact(s) against opposite detail)**.==
-  - ==Therefore, **(Point3)**.==
+  - <span style="font-size:1rem; background:yellow;">Nevertheless, a voice arises that **(opposite detail in grand opening)**.</span>
+  - <span style="font-size:1rem; background:yellow;">Ironically, **(fact(s) against opposite detail)**.</span>
+  - <span style="font-size:1rem; background:yellow;">Therefore, **(Point3)**.</span>
   
 - Example
   - Nevertheless, a voice arises that investment in infrastructure projects helps increase employment rate, boosting economy and creating better social equality.

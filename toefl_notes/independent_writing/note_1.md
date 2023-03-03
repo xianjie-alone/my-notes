@@ -321,11 +321,13 @@ typora-copy-images-to: ./images
   - <span style="font-size:1rem; background:yellow;">Therefore, **(Point3)**.</span>
   
 - Example
-  - Nevertheless, a voice arises that investment in infrastructure projects helps increase employment rate, boosting economy and creating better social equality.
+  - **Nevertheless, a voice arises that** <span style="color:blue">investment in infrastructure projects helps **increase employment rate**, boosting economy and creating better social **equality**</span>.
   
-    Ironically, the jobs added through such projects are only temporary, and do not help people in the long term. Poor people and their future generations still cannot move up in the social echelon.
+    > It is hard to deny that <span style="color:blue">infrastructure projects **create lots of jobs for a society**</span>, and such a fact may mislead impressionable people to generate the opinion that <span style="color:blue">our government should give priority of its investment to infrastructure instead of education</span>.
   
-    Therefore, education is the true solution to tackle inequality in the society.
+    **Ironically, **the jobs added through such projects are only temporary, and do not help people in the long term. Poor people and their future generations still cannot move up in the social echelon.
+  
+    **Therefore,** <span style="color:blue">education is the true solution to **tackle inequality** in the society.</span>
   
   - Nevertheless, a voice arises that education can help people to move up in the social hierarchy, create better social equality.
   

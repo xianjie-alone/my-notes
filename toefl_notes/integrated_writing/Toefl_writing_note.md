@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ./images
+---
+
 # Integrated writing task
 
 ***Template:***
@@ -10,5 +14,5 @@ In addition, the lecturer casts doubt on the author's second reason that (readin
 
 Finally, the author's third reason that (reading point 3 + main idea) is also counteracted by the lecturer who points out that (listening point 3 + details).
 
-# Independent writing task
+
 

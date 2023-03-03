@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ./images
+---
+
 [toc]
 
 # Administration and testing options

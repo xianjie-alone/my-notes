@@ -69,18 +69,25 @@ typora-copy-images-to: ./images
 
 ## 3.Prompt Analysis
 
-- A reservoir of **high-level** points
-  - <span style="color:red">macro, expandable, compatible </span>
+- A reservoir of **high-level** points：<span style="color:red">macro, expandable, compatible </span>
   - <span style="font-size:1rem; background:yellow;">Effectiveness and efficiency</span>
+  
   - <span style="font-size:1rem; background:yellow;">Economy and finance</span>
     - create jobs
+  
   - <span style="font-size:1rem; background:yellow;">Technology and internet</span>
+  
   - <span style="font-size:1rem; background:yellow;">Health and environment</span>
+  
   - <span style="font-size:1rem; background:yellow;">Culture and globalization</span>
+  
   - <span style="font-size:1rem; background:yellow;">Social relationship</span>
+  
   - <span style="font-size:1rem; background:yellow;">Career development</span>
+  
   - <span style="font-size:1rem; background:yellow;">justice and equality</span>
-  - Example:
+  
+    Example:
     - Pyramid 金字塔论证架构
 
 <img src="./images/essay structure.png" alt="essay structure" style="zoom:33%;" />
@@ -98,8 +105,8 @@ typora-copy-images-to: ./images
       - <span style="color:brown">Social </span>: learn to communicate with different people
       - <span style="color:brown"> Health</span>: Young children cannot focus for too long
     - Young children will not benefit.
-      - <span style="color:brown">Effectiveness </span>: students cannot learn in-depth
-      - <span style="color:brown">Effectiveness </span>: teachers do not know students well
+      - <span style="color:brown">Effectiveness 1</span>: students cannot learn in-depth
+      - <span style="color:brown">Effectiveness 2</span>: teachers do not know students well
       - <span style="color:brown">Career </span>: need to learn to focus in the modern time
   - Government should invest more in education than infrastructure to improve the society?
     - Government should invest in education.
@@ -107,19 +114,23 @@ typora-copy-images-to: ./images
       - <span style="color:brown">Economy</span>: small and steady investment, no big deficit
       - <span style="color:brown">Equality</span>: narrow social gaps
     - Government should invest in infrastructure.
-      - <span style="color:brown">Economy</span>: infrastructure projects create jobs
-      - <span style="color:brown">Economy</span>: Better infrastructure, better economy
+      - <span style="color:brown">Economy 1</span>: infrastructure projects create jobs
+      - <span style="color:brown">Economy 2</span>: Better infrastructure, better economy
       - <span style="color:brown">Tech</span>: good tech and internet good for people
 
 ## Paragraph1 - The Grand Opening
 
 - A Good Opening is <span style="color:red">intriguing</span>, <span style="color:red">coherent</span>, and <span style="color:red">clear</span>.
+
 - **Hook**
   - intriguing
+  
 - **Transition**
+
 - Points
   - sub-arguments
-- Example
+  
+  Example：
 
 <img src="./images/example of structure.png" alt="example of structure" style="zoom:33%;" />
 
@@ -163,19 +174,18 @@ typora-copy-images-to: ./images
 - ***Tips***
 
   - Use prompt analysis for practice
-  - Build your adaption of the templet; feel free to add more complexity
-  - Pick an **opposite detail** that **you will be able to fight back** later in **concession**,
+  - <span style="font-size:1rem; background:red;">Build your adaption of the templet; feel free to add more complexity</span>
+  - <span style="font-size:1rem; background:red;">Pick an **opposite detail** that **you will be able to fight back** later in **concession** : 建议在文章开头引用支持对方观点的事实时，选择一个有缺陷的事实，这样在concession部分就可以指出该缺陷并进行反驳，顺势引出自己的第三个观点。</span>
 
 <img src="./images/opposite idea.png" alt="opposite idea" style="zoom:80%;" />
 
 ## Paragraph2 - Reasoning
 
-- <span style="color:red">Coherent</span> 有层次
+- <span style="color:red">Coherent</span> 有层次，从宏观到微观
 
   - High-level point
   - Mid (Explain the point)
   - Detail
-  - 从宏观到微观
 
 - <span style="color:red">Adequate</span>
 
@@ -192,25 +202,30 @@ typora-copy-images-to: ./images
 
   - First and foremost/First of all, (**Point1**), as (**Fact1**).   <span style="color:blue">High</span>
 
-    - Education is more effective than infrastructure in changing the world, as education generates greater long-term welfare for the society we live in.
+    - <span style="font-size:1rem; background:red;">Education is more effective than infrastructure</span> in changing the world, as education generates greater long-term welfare for the society we live in.
 
   - Meanwhile, (**Fact 2**);   <span style="color:blue">Mid</span>
 
-    - Meanwhile, in the long term, people will be able to learn more knowledge, enhance their professional skills, and change the world they live in;
-    - 在写对观点的解释是，<span style="font-size:1rem; background:yellow;">问自己解释中的内容 what how where why who ?</span>
-      - 好在接下来有的可写
-
+    - Meanwhile, in the long term, people will be able to learn more knowledge, enhance their professional skills, <span style="font-size:1rem; background:skyblue;">and change the world they live in;</span> (分号：语法上是句号，逻辑上是逗号)
+    - <span style="font-size:1rem; background:orange;">在Mid部分写对观点的解释时（即Fact2），<span style="font-size:1rem; background:yellow;">问自己解释中的内容 what how where why who ?</span> 好在接下来的Fact3中有可写的内容。</span>
+    
   - Not to mention that (**Fact 3**).  <span style="color:blue">Detail</span>
-
+  
     - Follow
-      - Furthermore, people that are well-educated tend to place a heavy emphasis on their future generations as well, and thus a virtuous cycle is formed in the whole society.
+      - **Furthermore**, people that are well-educated tend to place a heavy emphasis on their future generations as well, and thus a virtuous cycle is formed in the whole society.
+      
+        > <span style="font-size:1rem; background:skyblue;">and change the world they live in</span>
+      
     - Fight
-      - On the other hand, an investment in infrastructure might give people an easier ride or faster Internet, but it hardly enhance the inner quality of the whole society.
+      - **On the other hand**, an investment in infrastructure might give people an easier ride or faster Internet, but it hardly enhance the inner quality of the whole society.
+      
+        > <span style="font-size:1rem; background:red;">Education is more effective than infrastructure</span>
+      
     - Fight & Follow
-      - Not to mention the fact that these highly educated citizens will be able to build better, stronger, and more efficient infrastructure in the future to serve the whole society.
-
+      - **Not to mention the fact that** these highly educated citizens will be able to build better, stronger, and more efficient infrastructure in the future to serve the whole society.
+  
   - (Optional filler)
-
+  
     - Summary/Conclusion
       - Therefore, the extent of the benefit of education is clear even to the layman’s eyes, and our government should place a heavy emphasis on the investment in education.
     - What if
@@ -219,17 +234,17 @@ typora-copy-images-to: ./images
       - **Only a temporary measure**
       - **Not a long-term solution**.
       - **Do NOT abuse!**
-
+  
   - Example
-
+  
     <span style="font-size:1rem; background:orange;">Education is more effective than infrastructure in changing the world, as education generates greater long-term welfare for the society we live in. </span>
-
+  
     <span style="font-size:1rem; background:pink;">Meanwhile, in the long term, people will be able to learn more knowledge, enhance their professional skills, and change the world they live in;</span>
-
+  
     <span style="font-size:1rem; background:yellowgreen;">Not to mention the fact that these highly educated citizens will be able to build better, stronger, and more efficient infrastructure in the future to serve the whole society.</span>
-
+  
     <span style="font-size:1rem; background:skyblue;">In addition, if we do not place enough weight on education, we will lack momentum in our future development, not only in the building of infrastructure but many other fields as well.</span>
-
+  
     <span style="font-size:1rem; background:yellow;">(This is exactly the reason why we should spend more in education.)</span>
 
 ## Paragraph 3 - Exemplification
@@ -258,7 +273,7 @@ typora-copy-images-to: ./images
   
   - Furthermore, the fact that education promotes the fundamentals of economic growth in the long-term indicates that the government should allocate resources to education.
   
-    Take the case of Union, which once diverted a huge amount of fund to education in science and engineering. As a result, educated people, such as Alex, revolutionized the framework of Union’s industry and economy. These talents formed a synergy and transformed a poor country into one of the leading economies in the world.
+    Take the case of Union, which once diverted a huge amount of fund to education in science and engineering. <span style="font-size:1rem; background:red;">As a result, educated people, such as Alex, revolutionized the framework of Union’s industry and economy.</span> These talents formed a synergy and transformed a poor country into one of the leading economies in the world.
   
     Had it not been for Union’s heavy emphasis on education, Union would never become a leading economy in the world.
   
@@ -268,12 +283,24 @@ typora-copy-images-to: ./images
   
     Had it not been for the emphasis on infrastructure, China would never be able to become as strong as it is today.
   
+    Take the case of the ''New Deal" enacted by Roosevelt, which initiated and completed tons of infrastructure projects, including the Hoover Dam and a massive high-speed railway network. As a result, "New Deal" not only created jobs for millions of citizens during the great depression, but stimulated economy and improved the life quality of citizens.
+  
+    Had it not been for the emphasis on infrastructure, the United States would never have been able to recover so fast.
+  
   - Furthermore, the fact that monitoring devices
   
-- Common issue
+- Common issue **例子要体现出一般性，适普性，即Generality**
+  
   - Furthermore, the fact that social activities promote communication skills indicates that university ought to support social clubs.
-  - Take the case of my friend Alex, <span style="color:brown">a typical college student among thousands of others in the Union</span>, who once was an activist in social clubs at Mikoyan College, <span style="color:brown">widely known for its support to extracurricular activities</span>. Alex honed both his leadership and communication skills through participating in various activities. As a result, he received offers from multiple elite firms upon his graduation.
-  - Had it not been for Alex’s fondness in social activities, he would never become an elite professional as he is today.
+  
+    Take the case of my friend Alex, who once was an activist in social clubs at Mikoyan College, a top school in the Union. Alex honed both his leadership and communication skills through participating in various activities. As a result, he received offers from multiple elite firms upon his graduation.
+  
+  - Furthermore, the fact that social activities promote communication skills indicates that university ought to support social clubs.
+  
+    Take the case of my friend Alex,**<span style="color:brown">a <span style="font-size:1rem; background:yellow;">typical</span> college student among thousands of others in the Union</span>**, who once was an activist in social clubs at Mikoyan College, **<span style="color:brown"><span style="font-size:1rem; background:yellow;">widely known</span> for its support to extracurricular activities</span>**. Alex honed both his leadership and communication skills through participating in various activities. As a result, he received offers from multiple elite firms upon his graduation. 
+  
+    Had it not been for Alex’s fondness in social activities, he would never become an elite professional as he is today.
+  
 
 ## Paragraph 4&5 - Concession and Ending
 

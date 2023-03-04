@@ -93,10 +93,7 @@ Get the best testing experience possible with these enhancements to the TOEFL iB
 
 **You must present a valid passport with your name, photograph and signature as your primary ID.**
 
-**If you’re testing in a European Union, Schengen Zone, Arab States of the Gulf (GCC), or Mercosur country other
-than the one where you live, you can use your valid national or European identity card, if you have one. The card
-must include your name, a recognizable photograph, your date of birth and your signature. If the ID does not
-contain all of these items, you’ll need to present a supplemental ID.**
+**If you’re testing in a European Union, Schengen Zone, Arab States of the Gulf (GCC), or Mercosur country other than the one where you live, you can use your valid national or European identity card, if you have one. The card must include your name, a recognizable photograph, your date of birth and your signature. If the ID does not contain all of these items, you’ll need to present a supplemental ID.**
 
 
 
